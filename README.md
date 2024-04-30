@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Temitope.
-- 👀 I’m a Data Analyst and Python programmer.
+- 👀 I’m a Data Scientist/Analyst.
 - 🌱 I’m interested in Data and Business Analytics.
 - 📫 When I'm not coding, I'm exploring different food menus and doing volunteering works.
 - 💞️ I’m looking to collaborate on various projects in the Data field to help improve my skills.
